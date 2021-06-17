@@ -41,5 +41,5 @@ This repo holds Flutter applications developed by me during the course of ***lea
 * Integrate exception handling during downloads and parsing of data
 * Integrate ***openweathermap*** API and learn about API architecture overall
 * use ***Navigator & Routes*** to handle screen stack
-* pass data from from screen to another and back
+* pass data from from one screen to another and back
 * ***validate*** data from api before processing it further
