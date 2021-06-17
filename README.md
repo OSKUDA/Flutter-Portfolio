@@ -18,6 +18,7 @@ This repo holds Flutter applications developed by me during the course of ***lea
 * Use Dart ***functions*** and basic libraries such as ***dart:math***
 
 ## weatherMe
+#### *created an app to fetch and display weather data*
 >Android Studio (Flutter & Dart)
 
  <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/weatherMe/Screenshot_2021-06-17-19-54-57-372_io.github.oskuda.weatherMe.jpg" width="200"/>  <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/weatherMe/Screenshot_2021-06-17-19-53-21-407_io.github.oskuda.weatherMe.jpg" width="200"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/weatherMe/Screenshot_2021-06-17-19-53-40-322_io.github.oskuda.weatherMe.jpg" width="200"/> <br>
