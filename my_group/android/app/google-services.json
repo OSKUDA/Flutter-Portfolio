@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174519179214",
+    "project_id": "my-group-app-bd5cb",
+    "storage_bucket": "my-group-app-bd5cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174519179214:android:21bbe3935eac3e4018fd9f",
+        "android_client_info": {
+          "package_name": "io.github.oskuda.my_group"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174519179214-ea17ajp468acknslaloriid5akdjn1b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-IHZcAJ6womU8Qxx9VX-QBtrhEF5UOJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174519179214-ea17ajp468acknslaloriid5akdjn1b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
