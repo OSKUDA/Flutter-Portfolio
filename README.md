@@ -43,3 +43,36 @@ This repo holds Flutter applications developed by me during the course of ***lea
 * use ***Navigator & Routes*** to handle screen stack
 * pass data from from one screen to another and back
 * ***validate*** data from api before processing it further
+
+
+## myGroup
+#### *created an app for group chats*
+>Android Studio (Flutter & Dart)
+
+ <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myGroup/Screenshot_2021-07-11-17-20-54-400_io.github.oskuda.my_group.jpg" width="250"/>  <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myGroup/Screenshot_2021-07-11-17-22-03-375_io.github.oskuda.my_group.jpg" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myGroup/Screenshot_2021-07-11-17-23-56-456_io.github.oskuda.my_group.jpg" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myGroup/Screenshot_2021-07-11-17-23-19-165_io.github.oskuda.my_group.jpg" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myGroup/Screenshot_2021-07-11-17-24-26-627_io.github.oskuda.my_group.jpg" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myGroup/Screenshot_2021-07-11-17-54-49-564_io.github.oskuda.my_group.jpg" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myGroup/Screenshot_2021-07-11-17-54-58-782_io.github.oskuda.my_group.jpg" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myGroup/Screenshot_2021-07-11-17-55-25-931_io.github.oskuda.my_group.jpg" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myGroup/Screenshot_2021-07-11-18-20-47-856_io.github.oskuda.my_group.jpg" width="250"/> 
+
+ 
+### Specifications
+* App has multiple screen (splashScreen, authenticationScreen, dashboardScreen, messageScreen)
+* Users can register using email and password
+* Users can create or join existing group chats
+* FirebaseAuth is used for user authentication
+* Firestore is used as the backend
+* Implements MVC architecture
+* Provider is used for state management
+* Message updates on real-time
+* Only the admin of the group can delete the chat
+* Only authenticated users can read/write messages
+* Alert dialog are used to warm users of errors
+* App is scalable
+
+### What I learned?
+* Use and manage widget states using ***provider package***
+* ***lifting the state*** up the widget tree
+* work with implenting ***callbacks***
+* implement proper ***auth flow***
+* write ***Firestore rules***
+* make app scalable and moduler using ***MVC architecture***
+* efficient ***data modelling*** for Firestore
+* go from hand drawn ***wireframe to full functioning*** application
+* minimize code repetition by ***modulerizing*** widgets
