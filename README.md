@@ -76,3 +76,23 @@ This repo holds Flutter applications developed by me during the course of ***lea
 * efficient ***data modelling*** for Firestore
 * go from hand drawn ***wireframe to full functioning*** application
 * minimize code repetition by ***modulerizing*** widgets
+
+## myTimer
+#### *an app to track time*
+>(Flutter, Dart & BLoc)
+
+ <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/1.png" width="250"/>  <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/2.png" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/3.png" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/4.png" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/state.png" width="500"/> 
+
+ 
+### Specifications
+* App has two modes: i) timer ii) stopwatch
+* Uses ***BLoC state management*** under the hood
+* Users can record lap timings
+* Implements ***clean architecture*** with minimum inter dependencies
+* App is ***scalable*** and functions are highly ***portable***
+
+### What I learned?
+* Familiarized with BLoc state management and design pattern
+* Working of ***stream and subscription***
+* Abstracting **states** and ***events*** of a feature
+* Working with ***Equatable*** for ease of comparing objects
