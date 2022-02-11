@@ -79,7 +79,7 @@ This repo holds Flutter applications developed by me during the course of ***lea
 
 ## myTimer
 #### *an app to track time*
->(Flutter, Dart & BLoc)
+>(Flutter, Dart & BLoC)
 
  <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/1.png" width="250"/>  <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/2.png" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/3.png" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/4.png" width="250"/> <img src="https://github.com/OSKUDA/Flutter-Portfolio/blob/main/Screenshots/myTimer/state.png" width="500"/> 
 
